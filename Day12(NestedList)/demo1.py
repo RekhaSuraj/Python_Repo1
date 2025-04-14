@@ -5,7 +5,7 @@ l1 = [1,2,3,4,[11,12,13],[5,6,7],'a','b','c',[22,33,44],66]
 
 print('length of the list:',len(l1))
 
-
+print('hello')
 print('index of 0:',l1[0])
 print('index of 1:',l1[1])
 print('index of 2:',l1[2])
